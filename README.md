@@ -1,7 +1,11 @@
-JSON in JavaScript
+# JSON in JavaScript
 
+This is a fork of Douglas Crockford's JSON parser which adds the `component.json`
+file. Nothing more.
 
-Douglas Crockford
+## Original Readme
+
+Douglas Crockford  
 douglas@crockford.com
 
 2010-11-18

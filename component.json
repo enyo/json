@@ -1,0 +1,11 @@
+{
+  "name": "json",
+  "repo": "enyo/json",
+  "description": "JSON in JavaScript",
+  "version": "2.0.0",
+  "keywords": [ "json" ],
+  "dependencies": { },
+  "development": { },
+  "main": "json2.js",
+  "scripts": [ "json2.js" ]
+}
