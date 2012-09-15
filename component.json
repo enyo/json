@@ -6,6 +6,5 @@
   "keywords": [ "json" ],
   "dependencies": { },
   "development": { },
-  "main": "json2.js",
-  "scripts": [ "json2.js" ]
+  "scripts": [ "index.js" ]
 }
